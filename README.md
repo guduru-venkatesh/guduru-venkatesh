@@ -1,8 +1,9 @@
 ## Hi there 👋
 
+https://www.linkedin.com/in/venkatesh-guduru/
 <!--
 **guduru-venkatesh/guduru-venkatesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://www.linkedin.com/in/venkatesh-guduru/
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
