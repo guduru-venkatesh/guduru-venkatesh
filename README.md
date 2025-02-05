@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<p>
+  <a href="[https://www.linkedin.com/[removed]](https://www.linkedin.com/in/venkatesh-guduru/)" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/guduru-venkatesh" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
+  </a>
+</p>
 https://www.linkedin.com/in/venkatesh-guduru/
 <!--
 **guduru-venkatesh/guduru-venkatesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
